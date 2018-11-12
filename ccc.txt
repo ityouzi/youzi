@@ -1,1 +1,2 @@
-syso.err.plint("are you ok?")
+syse.err.print("are you ok?")
+syse.err.print("just soso")
