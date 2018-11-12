@@ -1,1 +1,1 @@
-syso.err.plint("ÄãÊÇ²»ÊÇÉµ£¡")
+syso.err.plint("are you ok?")
